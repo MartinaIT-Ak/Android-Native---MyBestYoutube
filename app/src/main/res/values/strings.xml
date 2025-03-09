@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyBestYoutube</string>
+    <string name="titreVideoHint">Titre de video</string>
+    <string name="descriptionVideoHint">Description court du video</string>
+    <string name="urlVideoHint">L\'url de video</string>
+    <string name="btnAdd">Ajouter</string>
+    <string name="btnCancel">Annuler</string>
+    <string name="missingTitre">Titre de video ne peut pas être vide.</string>
+    <string name="missingDesc">Description de video ne peut pas être vide.</string>
+    <string name="missingUrl">Url de video ne peut pas être vide.</string>
+</resources>
